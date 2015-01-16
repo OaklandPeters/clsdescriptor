@@ -1,12 +1,15 @@
-~~BEWARE~~
-===================================
-Everything below is un-filled-in template-boilerplate.
+clsdescriptor
+===============
 
-==============================
 
-PACKAGE-NAME
-============
+Synopsis
+---------
+Provides a set of class-related property and method descriptors. Some of these are deprecated in Python 3.
 
+
+
+Unfinished kruft
+====================
 
 Synopsis
 --------
